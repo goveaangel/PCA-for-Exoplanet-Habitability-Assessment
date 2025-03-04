@@ -34,7 +34,7 @@ We utilized data from the **NASA Exoplanet Archive**, which initially contained 
 - PCA revealed that **temperature, planetary mass, and orbital period** are key determinants of habitability.
 - Regression analysis confirmed the strong influence of these variables in habitability estimation.
 
-## 📂 Files in This Repository
+## 📂 Imnportant Files in This Repository
 - `Habitabilidad_FINAL.ipynb` - Jupyter Notebook containing the full implementation (data preprocessing, PCA, habitability analysis, and regression model).
 - `PCA_Report.pdf` - A detailed report summarizing methodology, results, and insights.
 
