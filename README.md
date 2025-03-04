@@ -62,6 +62,3 @@ This project showcases **data science, machine learning, and astrophysics applic
 
 ## 📩 Contact
 For inquiries, feel free to reach out via GitHub or email.
-
----
-*This project was conducted as part of an academic research initiative at Tecnológico de Monterrey.*
